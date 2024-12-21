@@ -9,7 +9,7 @@
 <!-- Main Content -->
 🚀 Building something awesome...  
 ☕ Powered by coffee and curiosity  
-🧠 Learning: AI/ML, Cloud Architecture, DevOps  
+🧠 Learning: AI/ML, Cloud Architecture, DevOpsSec  
 💻 Open for collaboration on interesting projects
 
 <!-- Pro Tip Section -->
