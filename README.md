@@ -1,16 +1,25 @@
-## Hi there 👋
+<!-- Profile Header -->
+<div align="left">
+  <img src="https://img.shields.io/badge/Status-Coding%20Something%20Cool-blue?style=for-the-badge&logo=github" alt="Coding Status"/>
+</div>
 
-<!--
-**hhftechnology/hhftechnology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Activity Status -->
+### 🟢 Currently Active
 
-Here are some ideas to get you started:
+<!-- Main Content -->
+🚀 Building something awesome...  
+☕ Powered by coffee and curiosity  
+🧠 Learning: AI/ML, Cloud Architecture, DevOps  
+💻 Open for collaboration on interesting projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Pro Tip Section -->
+> ⭐ Pro tip: The best code is written after midnight
+
+<!-- GitHub Stats -->
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hhftechnology&show_icons=true&theme=dark" alt="GitHub Stats"/>
+</div>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hhftechnology&layout=compact&theme=dark)
+
+![Profile Views](https://komarev.com/ghpvc/?username=hhftechnology)
