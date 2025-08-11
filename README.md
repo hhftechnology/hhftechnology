@@ -44,7 +44,7 @@ $ whoami
 <!-- Profile Views -->
 <div align="left">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=hhftechnology&color=blue&for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=hhftechnology&for-the-badge)
   
 </div>
 
